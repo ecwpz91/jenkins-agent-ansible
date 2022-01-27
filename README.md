@@ -1,2 +1,2 @@
-# Ansible Jenkins Slave Image
-Ansible Jenkins Slave Image for use with OpenShift and Kubernetes
+# Ansible Jenkins Agent Image
+Ansible Jenkins Agent Image for use with OpenShift and Kubernetes
